@@ -14,7 +14,6 @@ DockerHub with image
 git clone https://github.com/alinagazaryan/exam_27.06.23
 git add *
 git commit -am "text" 
-git checkout -b название ветки
 git push https://github.com/alinagazaryan/exam_27.06.23 название ветки
 git checkout main
 git merge название ветки
@@ -22,4 +21,5 @@ git merge название ветки
 Git: 
 ![image](https://github.com/alinagazaryan/exam_27.06.23/assets/113593230/e46513b4-0264-4a43-a578-faa6ecf23477)
 ![image](https://github.com/alinagazaryan/exam_27.06.23/assets/113593230/9bdf9395-0a97-4d30-bf96-c55e697cb85a)
+![image](https://github.com/alinagazaryan/exam_27.06.23/assets/113593230/d303c0f5-5870-4531-b12c-4a6a435ae12f)
 
