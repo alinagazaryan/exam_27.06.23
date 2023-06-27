@@ -13,7 +13,7 @@ DockerHub with image
 ```sh
 git clone https://github.com/alinagazaryan/exam_27.06.23
 git add *
-git commit -am "text" 
+git commit -m "text" 
 git push https://github.com/alinagazaryan/exam_27.06.23 название ветки
 git checkout main
 git merge название ветки
