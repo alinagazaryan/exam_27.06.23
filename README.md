@@ -26,4 +26,6 @@ Git:
 Docker: 
 ![image](https://github.com/alinagazaryan/exam_27.06.23/assets/113593230/7e3638e4-b3bc-40ce-b917-7a6b6b9b6554)
 ![image](https://github.com/alinagazaryan/exam_27.06.23/assets/113593230/978d26e0-56d0-486e-a634-9f8885b9f62d)
+![image](https://github.com/alinagazaryan/exam_27.06.23/assets/113593230/af084e92-b96e-46ac-86fe-4a986bca0670)
+
 
